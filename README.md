@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Singh
 
-<!--
-**GauravSingh0001/GauravSingh0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student specializing in Cybersecurity at IILM University.  
+💻 I enjoy building secure web tools and learning through Capture The Flag (CTF) challenges.  
+🌐 Currently exploring penetration testing, cloud security, and scripting with Python & Bash.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, Bash, HTML, CSS  
+- **Web:** Basic web development using HTML/CSS/JS  
+- **Cybersecurity Tools:** Burp Suite, Nmap, Wireshark  
+- **Platforms:** Linux, GitHub  
+- **Learning:** MongoDB, Node.js, Cloud Security
+
+---
+
+## 🚀 Current Goals
+
+- Solve Web and Crypto challenges on platforms like PortSwigger and TryHackMe  
+- Build small projects in Python and JavaScript  
+- Learn the basics of cloud platforms (AWS) and secure coding practices
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** gauravsingh112003@gmail.com  
+- **LinkedIn:** [linkedin.com/in/gauravsinghdev](https://www.linkedin.com/in/gauravsinghdev/)  
+- **GitHub:** [GauravSingh0001](https://github.com/GauravSingh0001)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravSingh0001&show_icons=true&theme=radical)

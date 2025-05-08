@@ -29,6 +29,7 @@
 - **Email:** gauravsingh112003@gmail.com  
 - **LinkedIn:** [linkedin.com/in/gauravsinghdev](https://www.linkedin.com/in/gauravsinghdev/)  
 - **GitHub:** [GauravSingh0001](https://github.com/GauravSingh0001)
+- **Portfolio:** [gauravsinghdev.vercel.app](https://gauravsinghdev.vercel.app/)
 
 ---
 
